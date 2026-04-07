@@ -1,0 +1,1 @@
+The README.md was missing comprehensive information about the Ethereum blockchain. The fix includes adding a clear explanation about Ethereum, its purpose, and features to the README.md. Test it by reviewing the updated README for clarity and completeness.
